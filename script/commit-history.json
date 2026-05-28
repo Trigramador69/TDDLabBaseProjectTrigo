@@ -114,12 +114,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "f0166a574b0ca9c22c38de32c4b7dfd3f13294e5",
     "author": "Diego Trigo",
     "commit": {
       "date": "2026-05-28T12:18:58.000Z",
       "message": "test: ignora numeros mayores a 1000",
-      "url": "https://github.com/Trigramador69/TDDLabBaseProjectTrigo/commit/HEAD"
+      "url": "https://github.com/Trigramador69/TDDLabBaseProjectTrigo/commit/f0166a574b0ca9c22c38de32c4b7dfd3f13294e5"
     },
     "stats": {
       "total": 5,
@@ -129,6 +129,25 @@
     },
     "coverage": 100,
     "test_count": 9,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Diego Trigo",
+    "commit": {
+      "date": "2026-05-28T12:19:50.000Z",
+      "message": "test: soporta delimitador de longitud variable",
+      "url": "https://github.com/Trigramador69/TDDLabBaseProjectTrigo/commit/HEAD"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 4,
+      "deletions": 0,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 10,
     "failed_tests": 0,
     "conclusion": "success"
   }

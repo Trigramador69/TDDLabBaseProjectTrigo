@@ -100,9 +100,23 @@
     "testId": 6
   },
   {
-    "commitId": "HEAD",
+    "commitId": "f0166a574b0ca9c22c38de32c4b7dfd3f13294e5",
     "commitName": "test: ignora numeros mayores a 1000",
     "commitTimestamp": 1779970739820,
     "testId": 6
+  },
+  {
+    "numPassedTests": 10,
+    "failedTests": 0,
+    "numTotalTests": 10,
+    "timestamp": 1779970770033,
+    "success": true,
+    "testId": 7
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "test: soporta delimitador de longitud variable",
+    "commitTimestamp": 1779970791769,
+    "testId": 7
   }
 ]

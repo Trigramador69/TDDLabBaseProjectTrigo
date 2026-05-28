@@ -36,6 +36,10 @@ describe("Sumar", () => {
   it('ignora numeros mayores a 1000', () => {
     expect(sumar("2,1001")).toEqual(2);
   });
+
+  it('permite delimitador personalizado de longitud variable', () => {
+    expect(sumar("//[***] 1***2***3")).toEqual(6);
+  });
 });
 
 
