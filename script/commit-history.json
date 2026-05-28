@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Diego Trigo",
+    "commit": {
+      "date": "2026-05-28T12:14:39.000Z",
+      "message": "test: retorna 0 para cadena vacia",
+      "url": "https://github.com/Trigramador69/TDDLabBaseProjectTrigo/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 8,
+      "deletions": 0,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]

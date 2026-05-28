@@ -4,6 +4,10 @@ describe("Sumar", () => {
   it("deberia sumar dos numeros", () => {
     expect(sumar(3, 2)).toEqual(5);
   });
+
+  it('retorna 0 para cadena vacia ""', () => {
+    expect(sumar("")).toEqual(0);
+  });
 });
 
 
