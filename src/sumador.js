@@ -3,6 +3,10 @@ function sumar(a, b) {
     return 0;
   }
 
+  if (typeof a === "string" && b === undefined) {
+    return Number.parseInt(a, 10);
+  }
+
   return a + b;
 }
 

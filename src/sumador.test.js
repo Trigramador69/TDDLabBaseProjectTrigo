@@ -8,6 +8,10 @@ describe("Sumar", () => {
   it('retorna 0 para cadena vacia ""', () => {
     expect(sumar("")).toEqual(0);
   });
+
+  it('retorna el numero para cadena con un solo numero "2"', () => {
+    expect(sumar("2")).toEqual(2);
+  });
 });
 
 

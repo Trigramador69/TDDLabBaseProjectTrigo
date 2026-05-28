@@ -16,9 +16,23 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "d8339db4f8df54fabc83cfea85f29a6792d6a944",
     "commitName": "test: retorna 0 para cadena vacia",
     "commitTimestamp": 1779970480857,
     "testId": 0
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1779970527487,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "test: soporta cadena con un numero",
+    "commitTimestamp": 1779970537608,
+    "testId": 1
   }
 ]
