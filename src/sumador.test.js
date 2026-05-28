@@ -40,6 +40,10 @@ describe("Sumar", () => {
   it('permite delimitador personalizado de longitud variable', () => {
     expect(sumar("//[***] 1***2***3")).toEqual(6);
   });
+
+  it('permite multiples delimitadores personalizados', () => {
+    expect(sumar("//[*][%] 1*2%3,7-9")).toEqual(22);
+  });
 });
 
 

@@ -114,9 +114,23 @@
     "testId": 7
   },
   {
-    "commitId": "HEAD",
+    "commitId": "ba968863a39e60454ff7cf085684fbee098f6f19",
     "commitName": "test: soporta delimitador de longitud variable",
     "commitTimestamp": 1779970791769,
     "testId": 7
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 0,
+    "numTotalTests": 11,
+    "timestamp": 1779970812604,
+    "success": true,
+    "testId": 8
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "test: soporta multiples delimitadores personalizados",
+    "commitTimestamp": 1779970826192,
+    "testId": 8
   }
 ]
