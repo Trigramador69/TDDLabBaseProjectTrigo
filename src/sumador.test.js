@@ -32,6 +32,10 @@ describe("Sumar", () => {
   it('permite delimitador personalizado mezclado con coma y guion', () => {
     expect(sumar("//[;] 6,3-2;1")).toEqual(12);
   });
+
+  it('ignora numeros mayores a 1000', () => {
+    expect(sumar("2,1001")).toEqual(2);
+  });
 });
 
 

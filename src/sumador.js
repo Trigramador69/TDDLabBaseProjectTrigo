@@ -37,6 +37,7 @@ function sumar(a, b) {
       .split(splitRegex)
       .filter((value) => value !== "")
       .map((value) => Number.parseInt(value, 10))
+      .filter((value) => value <= 1000)
       .reduce((accumulator, value) => accumulator + value, 0);
   }
 

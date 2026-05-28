@@ -95,12 +95,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "65d420d8640eea0c355f9744a930ce79360790ef",
     "author": "Diego Trigo",
     "commit": {
       "date": "2026-05-28T12:18:26.000Z",
       "message": "test: soporta delimitador personalizado",
-      "url": "https://github.com/Trigramador69/TDDLabBaseProjectTrigo/commit/HEAD"
+      "url": "https://github.com/Trigramador69/TDDLabBaseProjectTrigo/commit/65d420d8640eea0c355f9744a930ce79360790ef"
     },
     "stats": {
       "total": 42,
@@ -110,6 +110,25 @@
     },
     "coverage": 100,
     "test_count": 8,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Diego Trigo",
+    "commit": {
+      "date": "2026-05-28T12:18:58.000Z",
+      "message": "test: ignora numeros mayores a 1000",
+      "url": "https://github.com/Trigramador69/TDDLabBaseProjectTrigo/commit/HEAD"
+    },
+    "stats": {
+      "total": 5,
+      "additions": 5,
+      "deletions": 0,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 9,
     "failed_tests": 0,
     "conclusion": "success"
   }

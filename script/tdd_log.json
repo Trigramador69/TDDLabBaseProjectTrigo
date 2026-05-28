@@ -86,9 +86,23 @@
     "testId": 5
   },
   {
-    "commitId": "HEAD",
+    "commitId": "65d420d8640eea0c355f9744a930ce79360790ef",
     "commitName": "test: soporta delimitador personalizado",
     "commitTimestamp": 1779970707920,
     "testId": 5
+  },
+  {
+    "numPassedTests": 9,
+    "failedTests": 0,
+    "numTotalTests": 9,
+    "timestamp": 1779970732446,
+    "success": true,
+    "testId": 6
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "test: ignora numeros mayores a 1000",
+    "commitTimestamp": 1779970739820,
+    "testId": 6
   }
 ]
