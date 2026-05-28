@@ -44,9 +44,23 @@
     "testId": 2
   },
   {
-    "commitId": "HEAD",
+    "commitId": "6c087a31ba46237709de372c1dce5987b7b65c3b",
     "commitName": "test: suma dos numeros separados por coma",
     "commitTimestamp": 1779970582148,
     "testId": 2
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1779970604048,
+    "success": true,
+    "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "test: suma varios numeros separados por coma",
+    "commitTimestamp": 1779970630763,
+    "testId": 3
   }
 ]

@@ -16,6 +16,10 @@ describe("Sumar", () => {
   it('suma dos numeros en cadena separados por coma "1,2"', () => {
     expect(sumar("1,2")).toEqual(3);
   });
+
+  it('suma varios numeros en cadena separados por coma "1,2,3"', () => {
+    expect(sumar("1,2,3")).toEqual(6);
+  });
 });
 
 
