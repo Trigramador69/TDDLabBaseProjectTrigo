@@ -76,12 +76,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "d68abc9e593e42cf4484baa7ea71f95e094565dc",
     "author": "Diego Trigo",
     "commit": {
       "date": "2026-05-28T12:17:36.000Z",
       "message": "test: soporta separador guion",
-      "url": "https://github.com/Trigramador69/TDDLabBaseProjectTrigo/commit/HEAD"
+      "url": "https://github.com/Trigramador69/TDDLabBaseProjectTrigo/commit/d68abc9e593e42cf4484baa7ea71f95e094565dc"
     },
     "stats": {
       "total": 6,
@@ -91,6 +91,25 @@
     },
     "coverage": 100,
     "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Diego Trigo",
+    "commit": {
+      "date": "2026-05-28T12:18:26.000Z",
+      "message": "test: soporta delimitador personalizado",
+      "url": "https://github.com/Trigramador69/TDDLabBaseProjectTrigo/commit/HEAD"
+    },
+    "stats": {
+      "total": 42,
+      "additions": 40,
+      "deletions": 2,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 8,
     "failed_tests": 0,
     "conclusion": "success"
   }

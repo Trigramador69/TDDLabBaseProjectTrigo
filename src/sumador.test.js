@@ -24,6 +24,14 @@ describe("Sumar", () => {
   it('tambien permite guion como separador "1-2,3"', () => {
     expect(sumar("1-2,3")).toEqual(6);
   });
+
+  it('permite delimitador personalizado "//[;] 6;7;4"', () => {
+    expect(sumar("//[;] 6;7;4")).toEqual(17);
+  });
+
+  it('permite delimitador personalizado mezclado con coma y guion', () => {
+    expect(sumar("//[;] 6,3-2;1")).toEqual(12);
+  });
 });
 
 

@@ -72,9 +72,23 @@
     "testId": 4
   },
   {
-    "commitId": "HEAD",
+    "commitId": "d68abc9e593e42cf4484baa7ea71f95e094565dc",
     "commitName": "test: soporta separador guion",
     "commitTimestamp": 1779970657883,
     "testId": 4
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 0,
+    "numTotalTests": 8,
+    "timestamp": 1779970685540,
+    "success": true,
+    "testId": 5
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "test: soporta delimitador personalizado",
+    "commitTimestamp": 1779970707920,
+    "testId": 5
   }
 ]
