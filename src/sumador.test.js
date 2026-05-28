@@ -12,6 +12,10 @@ describe("Sumar", () => {
   it('retorna el numero para cadena con un solo numero "2"', () => {
     expect(sumar("2")).toEqual(2);
   });
+
+  it('suma dos numeros en cadena separados por coma "1,2"', () => {
+    expect(sumar("1,2")).toEqual(3);
+  });
 });
 
 

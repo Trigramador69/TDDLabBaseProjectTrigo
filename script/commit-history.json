@@ -19,12 +19,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "f5d4707c9ae0c5a59d97031086a6a95f80c65958",
     "author": "Diego Trigo",
     "commit": {
       "date": "2026-05-28T12:15:36.000Z",
       "message": "test: soporta cadena con un numero",
-      "url": "https://github.com/Trigramador69/TDDLabBaseProjectTrigo/commit/HEAD"
+      "url": "https://github.com/Trigramador69/TDDLabBaseProjectTrigo/commit/f5d4707c9ae0c5a59d97031086a6a95f80c65958"
     },
     "stats": {
       "total": 8,
@@ -34,6 +34,25 @@
     },
     "coverage": 100,
     "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Diego Trigo",
+    "commit": {
+      "date": "2026-05-28T12:16:21.000Z",
+      "message": "test: suma dos numeros separados por coma",
+      "url": "https://github.com/Trigramador69/TDDLabBaseProjectTrigo/commit/HEAD"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 8,
+      "deletions": 1,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 4,
     "failed_tests": 0,
     "conclusion": "success"
   }

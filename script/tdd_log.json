@@ -30,9 +30,23 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "f5d4707c9ae0c5a59d97031086a6a95f80c65958",
     "commitName": "test: soporta cadena con un numero",
     "commitTimestamp": 1779970537608,
     "testId": 1
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1779970567087,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "test: suma dos numeros separados por coma",
+    "commitTimestamp": 1779970582148,
+    "testId": 2
   }
 ]
