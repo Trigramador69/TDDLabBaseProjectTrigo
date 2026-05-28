@@ -57,12 +57,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "d892efa60c8007ecd279bbe599854442260b6314",
     "author": "Diego Trigo",
     "commit": {
       "date": "2026-05-28T12:17:09.000Z",
       "message": "test: suma varios numeros separados por coma",
-      "url": "https://github.com/Trigramador69/TDDLabBaseProjectTrigo/commit/HEAD"
+      "url": "https://github.com/Trigramador69/TDDLabBaseProjectTrigo/commit/d892efa60c8007ecd279bbe599854442260b6314"
     },
     "stats": {
       "total": 4,
@@ -72,6 +72,25 @@
     },
     "coverage": 100,
     "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Diego Trigo",
+    "commit": {
+      "date": "2026-05-28T12:17:36.000Z",
+      "message": "test: soporta separador guion",
+      "url": "https://github.com/Trigramador69/TDDLabBaseProjectTrigo/commit/HEAD"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 5,
+      "deletions": 1,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 6,
     "failed_tests": 0,
     "conclusion": "success"
   }

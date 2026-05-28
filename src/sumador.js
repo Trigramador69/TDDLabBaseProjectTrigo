@@ -5,7 +5,7 @@ function sumar(a, b) {
 
   if (typeof a === "string" && b === undefined) {
     return a
-      .split(",")
+      .split(/[,-]/)
       .map((value) => Number.parseInt(value, 10))
       .reduce((accumulator, value) => accumulator + value, 0);
   }

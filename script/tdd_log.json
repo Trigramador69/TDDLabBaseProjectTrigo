@@ -58,9 +58,23 @@
     "testId": 3
   },
   {
-    "commitId": "HEAD",
+    "commitId": "d892efa60c8007ecd279bbe599854442260b6314",
     "commitName": "test: suma varios numeros separados por coma",
     "commitTimestamp": 1779970630763,
     "testId": 3
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1779970651070,
+    "success": true,
+    "testId": 4
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "test: soporta separador guion",
+    "commitTimestamp": 1779970657883,
+    "testId": 4
   }
 ]
